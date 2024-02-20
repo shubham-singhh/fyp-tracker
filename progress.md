@@ -8,3 +8,4 @@ Progress update 4 on 2023-12-27T00:00:00
 Progress update 5 on 2024-01-10T00:00:00
 Progress update 6 on 2024-01-24T00:00:00
 Progress update 7 on 2024-02-07T00:00:00
+Progress update 8 on 2024-02-21T00:00:00
